@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pacifique2
 - 👀 I’m interested in all techs related to k8s, cloud, DevOps, blockchain and web3.0
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning some pretty cool stuffs 
+- 💞️ I’m looking to collaborate on all things kubernetes and cloud.
 - 📫 How to reach me at ntakipacy@gmail.com
 
 <!---
